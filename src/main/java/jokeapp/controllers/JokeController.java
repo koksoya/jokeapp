@@ -1,6 +1,6 @@
-package com.koksoya.joke.jokeapp.controllers;
+package jokeapp.controllers;
 
-import com.koksoya.joke.jokeapp.services.JokeService;
+import jokeapp.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

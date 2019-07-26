@@ -1,4 +1,4 @@
-package com.koksoya.joke.jokeapp.services;
+package jokeapp.services;
 
 public interface JokeService {
 
